@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "firstname": "Piyushraj",
+    "lastname": "Bista",
+    "address": "123 Main St, Anytown, USA",
+    "phone": "+1 (555) 123-4567"
+  },
+  {
+    "id": 2,
+    "firstname": "Jenish",
+    "lastname": "Rijal",
+    "address": "456 Oak Ave, Anycity, USA",
+    "phone": "+1 (555) 987-6543"
+  },
+  {
+    "id": 3,
+    "firstname": "Bimisha",
+    "lastname": "Mishra",
+    "address": "789 Elm Blvd, Somewhere, USA",
+    "phone": "+1 (555) 555-1212"
+  },
+  {
+    "id": 4,
+    "firstname": "Ashutosh",
+    "lastname": "Panta",
+    "address": "321 Pine St, Anytown, USA",
+    "phone": "+1 (555) 777-8888"
+  },
+  {
+    "id": 5,
+    "firstname": "Tshering",
+    "lastname": "Sherpa",
+    "address": "555 Maple Dr, Anycity, USA",
+    "phone": "+1 (555) 246-8101"
+  },
+  {
+    "id": 6,
+    "firstname": "Ashok",
+    "lastname": "Singh",
+    "address": "777 Cedar Ln, Somewhere, USA",
+    "phone": "+1 (555) 555-5555"
+  },
+  {
+    "id": 7,
+    "firstname": "Kalpana",
+    "lastname": "Saud",
+    "address": "444 Birch St, Anytown, USA",
+    "phone": "+1 (555) 999-8888"
+  },
+  {
+    "id": 8,
+    "firstname": "Saurav",
+    "lastname": "Thakur",
+    "address": "444 Birch St, Anytown, USA",
+    "phone": "+1 (555) 999-8888"
+  },
+  {
+    "id": 9,
+    "firstname": "Kaji Man",
+    "lastname": "Lawati",
+    "address": "444 Birch St, Anytown, USA",
+    "phone": "+1 (555) 999-8888"
+  }
+]
